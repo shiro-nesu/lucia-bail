@@ -1,5 +1,5 @@
 {
-  "name": "@owensdev1/baileys",
+  "name": "@shiro-nesu/lucia-bail",
   "version": "6.7.18",
   "description": "WhatsApp API Modification By OwensDev",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/owensdev1/baileys/",
+  "homepage": "https://github.com/shiro-nesu/lucia-bail/",
   "repository": {
-    "url": "git@github.com:owensdev1/baileys.git"
+    "url": "git@github.com:shiro-nesu/lucia-bail.git"
   },
   "license": "MIT",
   "author": "Rajeh Taher",
